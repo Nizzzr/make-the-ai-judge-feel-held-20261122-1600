@@ -1,0 +1,53 @@
+{
+  "format": "agent-fun/kit/v1",
+  "competition": "make-the-ai-judge-feel-held-20261122-1600",
+  "phase": "dev",
+  "bundle_sha256": "dc81e6c713f8f43f32cf8243807f5e0b3841f42ccade0477207b25931f3a978d",
+  "dataset_sha256": null,
+  "harness_version": "harness@b87d2a52f0ed83efb27fa439dd0d23cd4308977d543f3e7f7771cbe75e1504b3 node v26.13.1",
+  "scorer_version": "scorer@cf629d5915594b9ad0abd07fe550ef70b3153af44b84aacd7935356fc29af22e program@49e164c1bcda970b1d451c8e371f5fe6c2f1b7dd483219cc1745c0493c9784e3",
+  "pricing_rev": "34d1007cd9dd19a1d751a8b87e79e95c181a94b3e791b1a546de6dac11435dbe",
+  "protocol": "agent-fun/program/v1",
+  "files": [
+    {
+      "path": "RULES.txt",
+      "sha256": "838971ed3532db90f3bb63863dd21536a3db84956c3302ed1631095fb81b92b2",
+      "size": 76149
+    },
+    {
+      "path": "cli/makefun.mjs",
+      "sha256": "1b092dddd0d613e680de744ec45199770b365205becf06ad8b58f5884bca0cf9",
+      "size": 16599303
+    },
+    {
+      "path": "cli/site.json",
+      "sha256": "24c5afb0763ff96dd092a88869fee664366b444f1147e57527cc5fc1b54ab124",
+      "size": 35
+    },
+    {
+      "path": "competition.yaml",
+      "sha256": "ee1bdc7ba60bbadf254db1cff2a2f3f131289d2bea20bb59f2eb93deeda51496",
+      "size": 30739
+    },
+    {
+      "path": "harness/CODE.sha256",
+      "sha256": "ecee3e003c6375d43121887adec592239381271c7707ab717b301b0c77211d8a",
+      "size": 20426
+    },
+    {
+      "path": "harness/SOURCES.sha256",
+      "sha256": "fde63696e3eb00fd681384e692bdcee3f9da4decdd54629b4eed5e92152fa196",
+      "size": 20426
+    },
+    {
+      "path": "harness/harness-src.tar.gz",
+      "sha256": "d8046b2c6dc0df807174d4daa658a7a39d889d9043cec1cd0ada13a49349eead",
+      "size": 2967678
+    },
+    {
+      "path": "harness/harness-src.tar.gz.sha256",
+      "sha256": "e87720cde4fc8389ef2f664215df63a52d59e69dc44587ba0554b8fd6c1bb02e",
+      "size": 85
+    }
+  ]
+}
